@@ -1,0 +1,3 @@
+[user]
+    name = Sudeep kumar Dwivedi
+    email = kd458309@gmail.com
